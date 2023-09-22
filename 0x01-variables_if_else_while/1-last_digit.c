@@ -5,9 +5,9 @@
 /**
 * main -  Entry point
 *
-* Description: 'print the last digit of the number stored in the variable n'
+* Description: print the last digit of the number stored in the variable n
 *
-* Return Always (Success)
+* Return: Always (Success)
 */
 
 int main(void)
